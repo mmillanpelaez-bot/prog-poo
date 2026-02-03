@@ -1,8 +1,8 @@
-from POO.social.person import Person
-from POO.time.hours import Hours
-from POO.geometry.point import Point
-from POO.geometry.sphere import Sphere
-from POO.geometry.cylinder import Cylinder
+from social.person import Person
+from time.hours import Hours
+from geometry import Point
+from geometry import Sphere
+from geometry import Cylinder
 
 
 def main_point():
