@@ -1,4 +1,7 @@
-class Product_importer:
+import csv
+
+
+class ProductImporter:
     """
     Utility class dedicated solely to reading files and importing
     product data into the system.
